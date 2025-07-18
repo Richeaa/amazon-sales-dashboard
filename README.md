@@ -13,9 +13,9 @@ Detailed breakdown of revenue and profits by U.S. state and city.
 1. **Sales Trend**
    ![](Overview.png)
 2. **Product Analysis**
-   ![](Product Performance.png)
+   ![](ProductPerformance.png)
 3. **Regional Performance Analysis**
-   ![](Regional Performance.png)
+   ![](RegionalPerformance.png)
 
 # 📂 Dataset Information
 The dataset used in this project is available on Kaggle: [Amazon Sales Dataset](https://www.kaggle.com/datasets/anandshaw2001/amazon-sales-dataset)
