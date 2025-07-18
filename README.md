@@ -1,7 +1,7 @@
-📊 **Amazon Sales Dashboard (Power BI)**
+#📊 **Amazon Sales Dashboard (Power BI)**
 This project is a comprehensive Power BI dashboard that visualizes Amazon's sales performance across four years (2011-2014). This dashboard uncovers insights related to sales patterns, product performance, and regional trends to support better decision-making.
 
-🔍 **Dashboard Highlights**
+#🔍 **Dashboard Highlights**
 - Sales Overview
 Visual presentation of total revenue, orders, quantity sold, profit, and average profit margin across years and months.
 - Product-Level Analysis
@@ -9,7 +9,7 @@ Overview of top-performing products and categories based on sales volume and pro
 - Regional Performance
 Detailed breakdown of revenue and profits by U.S. state and city.
 
-📂 **Dataset Information**
+#📂 **Dataset Information**
 The dataset used in this project is available on Kaggle: [![Amazon Sales Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/datasets/anandshaw2001/amazon-sales-dataset)
 
 Key Columns:
@@ -23,7 +23,7 @@ Key Columns:
 - Quantity – Units sold
 - Profit – Net earnings from the transaction
 
-🙋‍♂️ **Author**
+#🙋‍♂️ **Author**
 Rich Edrick Anthonios
 
 - **Github**: [Github](https://github.com/Richeaa)
