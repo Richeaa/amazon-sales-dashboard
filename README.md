@@ -9,6 +9,12 @@ Overview of top-performing products and categories based on sales volume and pro
 - Regional Performance
 Detailed breakdown of revenue and profits by U.S. state and city.
 
+# Project Showcase
+1. **Sales Trend**
+   ![Overview Screenshot](overview.png)
+3. **Product Analysis**
+4. **Regional Performance Analysis**
+
 # 📂 Dataset Information
 The dataset used in this project is available on Kaggle: [Amazon Sales Dataset](https://www.kaggle.com/datasets/anandshaw2001/amazon-sales-dataset)
 
