@@ -1,4 +1,4 @@
-# 📊 Amazon Sales Dashboard (Power BI)
+# Amazon Sales Dashboard (Power BI)
 This project is a comprehensive Power BI dashboard that visualizes Amazon's sales performance across four years (2011-2014). This dashboard uncovers insights related to sales patterns, product performance, and regional trends to support better decision-making.
 
 # 🔍 Dashboard Highlights
@@ -11,7 +11,7 @@ Detailed breakdown of revenue and profits by U.S. state and city.
 
 # Project Showcase
 1. **Sales Trend**
-   ![Overview Screenshot](overview.png)
+   ![](Overview.png)
 3. **Product Analysis**
 4. **Regional Performance Analysis**
 
