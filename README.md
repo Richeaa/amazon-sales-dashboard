@@ -10,7 +10,7 @@ Overview of top-performing products and categories based on sales volume and pro
 Detailed breakdown of revenue and profits by U.S. state and city.
 
 # 📂 Dataset Information
-The dataset used in this project is available on Kaggle: [![Amazon Sales Dataset](https://www.kaggle.com/datasets/anandshaw2001/amazon-sales-dataset)
+The dataset used in this project is available on Kaggle: [Amazon Sales Dataset](https://www.kaggle.com/datasets/anandshaw2001/amazon-sales-dataset)
 
 Key Columns:
 - Order Date – Date when purchase was made
